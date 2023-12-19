@@ -1,0 +1,31 @@
+2023-12-15 18:39:34.012682-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PURCHASE_TRANSACTION" not found (this database is empty); SQL statement:
+select pt1_0.transaction_id,pt1_0.description,pt1_0.purchase_amount,pt1_0.transaction_date from purchase_transaction pt1_0 where pt1_0.transaction_id=? [42104-224]
+2023-12-15 18:53:41.410117-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PURCHASE_TRANSACTION" not found (this database is empty); SQL statement:
+select pt1_0.transaction_id,pt1_0.description,pt1_0.purchase_amount,pt1_0.transaction_date from purchase_transaction pt1_0 where pt1_0.transaction_id=? [42104-224]
+2023-12-15 19:54:02.621020-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PURCHASE_TRANSACTION" not found (this database is empty); SQL statement:
+select pt1_0.transaction_id,pt1_0.description,pt1_0.purchase_amount,pt1_0.transaction_date from purchase_transaction pt1_0 where pt1_0.transaction_id=? [42104-224]
+2023-12-15 19:55:57.153057-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PURCHASE_TRANSACTION" not found; SQL statement:
+select pt1_0.transaction_id,pt1_0.description,pt1_0.purchase_amount,pt1_0.transaction_date from purchase_transaction pt1_0 where pt1_0.transaction_id=? [42102-224]
+2023-12-15 19:56:51.926117-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PURCHASE_TRANSACTION" not found; SQL statement:
+select pt1_0.transaction_id,pt1_0.description,pt1_0.purchase_amount,pt1_0.transaction_date from purchase_transaction pt1_0 where pt1_0.transaction_id=? [42102-224]
+2023-12-15 20:18:32.119628-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2023-12-15 20:20:00.979954-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2023-12-15 21:26:20.324673-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2023-12-15 21:31:25.237564-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2023-12-15 21:35:08.365046-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2023-12-15 21:40:53.328108-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2023-12-15 21:56:43.360538-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2023-12-16 07:49:30.128518-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
