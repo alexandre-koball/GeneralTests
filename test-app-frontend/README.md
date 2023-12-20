@@ -10,6 +10,14 @@ To build it, run the following command from the console, from its base folder (p
 
         npm run build
 
+If you encounter the following error:
+
+        'react-scripts' is not recognized as an internal or external command
+
+Please install the required module with the following command:
+
+        npm install react-scripts --save
+
 ## How to run
 
 To run the frontend, you should have "serve" installed. If that's not the case, install it with:
